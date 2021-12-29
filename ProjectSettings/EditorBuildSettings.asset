@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 64d2b02684139a94fafc35d9eb769183
+  - enabled: 1
+    path: Assets/Water Sim/WaterSim/Scenes/WaterSim.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/ParticleEffects/Scenes/FireEffect.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/ParticleEffects/Scenes/FireFlies.unity
+    guid: a707b9a684fe9eb438c5ec155f07a7ae
+  - enabled: 1
+    path: Assets/ParticleEffects/Scenes/Fireworks.unity
+    guid: ed63831e6388ec94aa4f7e0f09a390ba
+  - enabled: 1
+    path: Assets/ParticleEffects/Scenes/MuzzleFlash.unity
+    guid: 4a7b44b17c3bc1747b44848d836f34a1
+  - enabled: 1
+    path: Assets/ParticleEffects/Scenes/Smoke.unity
+    guid: 7ee6252a04766be44a89e58fe4490953
+  m_configObjects: {}
